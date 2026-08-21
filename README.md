@@ -219,7 +219,7 @@ The project uses a house-price dataset containing property information such as:
 The dataset is available on Kaggle:
 
 **Kaggle Dataset:**
-`PASTE YOUR FULL KAGGLE DATASET LINK HERE`
+"https://www.kaggle.com/datasets/juhibhojani/house-"
 
 > Replace the line above with the complete Kaggle URL from the dataset page.
 
