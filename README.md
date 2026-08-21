@@ -773,7 +773,7 @@ API becomes available
 
 This project was developed as a student Machine Learning / Full-Stack project.
 
-Add the appropriate license if a specific license is required.
+
 
 ---
 
